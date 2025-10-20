@@ -1,6 +1,6 @@
 # My favorite movie series is the [Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series)), directed by Peter Jackson.
 
-	![Lord of the Rings: Return of the King](Lord_Rings_Return_King.jpg)
+![Lord of the Rings: Return of the King](https://github.com/user-attachments/assets/82b25160-c4d2-42f1-8487-58ccb7e3f61a)
 
   The Lord of the Rings is a trilogy of epic fantasy adventure films directed by Peter Jackson based on the novel The Lord of the Rings by the English author J. R. R. Tolkien. The films are titled identically to the three volumes of the novel: The Fellowship of the Ring (2001), The Two Towers (2002), and The Return of the King (2003).
 
